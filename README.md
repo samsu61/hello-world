@@ -1,2 +1,3 @@
 # hello-world
-Coca repis pertama
+Coba repis pertama kali
+ya cukup baik
